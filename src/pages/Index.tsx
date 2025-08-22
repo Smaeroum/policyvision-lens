@@ -118,12 +118,9 @@ const Index = () => {
             <p className="text-xl mb-8 opacity-90">
               Experience faster, higher-confidence decisions on complex policies and reforms
             </p>
-            <div className="flex flex-wrap gap-4 justify-center">
+            <div className="flex justify-center">
               <Button size="lg" variant="secondary" className="gap-2">
                 Get Started
-              </Button>
-              <Button size="lg" variant="outline" className="gap-2 bg-white/10 border-white/20 text-white hover:bg-white/20">
-                Contact Sales
               </Button>
             </div>
           </Card>
