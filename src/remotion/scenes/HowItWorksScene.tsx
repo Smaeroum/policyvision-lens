@@ -13,7 +13,7 @@ export const HowItWorksScene: React.FC = () => {
   const steps = [
     { label: "Department submits review", icon: "📤", color: "hsl(217 91% 60%)" },
     { label: "PolicyLens processes & drafts", icon: "🤖", color: "hsl(142 76% 36%)" },
-    { label: "GNPE peer review", icon: "👥", color: "hsl(280 60% 50%)" },
+    { label: "Global Experts peer review", icon: "👥", color: "hsl(280 60% 50%)" },
     { label: "OW revises/finalizes", icon: "✅", color: "hsl(45 93% 47%)" },
     { label: "Department", icon: "🏛️", color: "hsl(217 91% 60%)" },
   ];
