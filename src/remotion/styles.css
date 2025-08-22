@@ -1,0 +1,27 @@
+@import "../index.css";
+
+/* Additional styles for Remotion video */
+.remotion-video {
+  font-family: var(--font-body);
+}
+
+/* Ensure text is crisp for video */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Animation utilities for video */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.float {
+  animation: float 3s ease-in-out infinite;
+}
