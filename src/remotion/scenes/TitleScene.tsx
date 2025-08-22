@@ -90,8 +90,8 @@ export const TitleScene: React.FC = () => {
           <p className="text-2xl md:text-3xl text-muted-foreground font-light">
             AI-Assisted Policy Intelligence
           </p>
-          <p className="text-lg text-muted-foreground mt-2 opacity-80">
-            Powered by Oliver Wyman's Global Network of Policy Experts
+          <p className="text-lg text-muted-foreground opacity-80">
+            Powered by Spark X an Oliver Wyman affiliated company
           </p>
         </div>
       </div>

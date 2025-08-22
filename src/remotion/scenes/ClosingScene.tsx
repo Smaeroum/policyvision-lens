@@ -107,7 +107,7 @@ export const ClosingScene: React.FC = () => {
             AI-Assisted Policy Intelligence
           </p>
           <p className="text-lg text-muted-foreground opacity-80">
-            Powered by Oliver Wyman's Global Network of Policy Experts
+            Powered by Spark X an Oliver Wyman affiliated company
           </p>
         </div>
 

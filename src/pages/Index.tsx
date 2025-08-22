@@ -100,7 +100,7 @@ const Index = () => {
           {[
             { title: "AI-Powered", description: "Advanced AI agent with expert peer review", icon: "🤖" },
             { title: "Fast Turnaround", description: "≤ 5 days peer review completion", icon: "⚡" },
-            { title: "Expert Network", description: "Oliver Wyman's Global Network of Policy Experts", icon: "👥" },
+            { title: "Expert Network", description: "Spark X an Oliver Wyman affiliated company", icon: "👥" },
             { title: "Comprehensive", description: "Full policy cycle from agenda to evaluation", icon: "🔄" },
           ].map((feature, index) => (
             <Card key={index} className="p-6 text-center shadow-card hover:shadow-glow transition-all duration-300 bg-gradient-accent border-border">
@@ -131,7 +131,7 @@ const Index = () => {
       <footer className="border-t border-border bg-card/50 backdrop-blur-sm mt-16">
         <div className="container mx-auto px-6 py-8 text-center">
           <p className="text-professional text-muted-foreground">
-            Powered by Oliver Wyman's Global Network of Policy Experts (GNPE)
+            Powered by Spark X an Oliver Wyman affiliated company
           </p>
         </div>
       </footer>
